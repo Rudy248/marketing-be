@@ -16,7 +16,7 @@ FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:3000")
 origins = [
     FRONTEND_URL,
     "http://localhost:3000",
-    "https://your-vercel-app-url.vercel.app"  # Replace with your actual Vercel URL
+    "https://marketing-fe-seven.vercel.app"  # Your Vercel frontend URL
 ]
 
 app.add_middleware(
