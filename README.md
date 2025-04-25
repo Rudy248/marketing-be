@@ -2,6 +2,10 @@
 
 A FastAPI-based backend application for managing marketing campaign data.
 
+## Demo
+https://marketing-fe-seven.vercel.app/ (Frontend)
+https://web-production-1aa0d.up.railway.app/docs (Backend)
+
 ## Features
 
 - RESTful API for campaign management
